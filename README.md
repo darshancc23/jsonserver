@@ -1,2 +1,2 @@
 # jsonserver
-This repository is to set up API responses quickly. 
+This repository is to mock API responses quickly. 
