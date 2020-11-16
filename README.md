@@ -1,2 +1,2 @@
 # jsonserver
-This repo is used to mimic JSON APIs
+This repository is to set up API responses quickly. 
